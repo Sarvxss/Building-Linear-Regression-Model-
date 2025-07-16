@@ -1,7 +1,7 @@
 
 # 📈 Linear Regression from Scratch in Python
 
-This project demonstrates how to build a **Linear Regression model from scratch**, without using machine learning libraries like `scikit-learn`. It walks through cleaning real-world data, understanding the underlying math, and implementing gradient descent for prediction.
+This project demonstrates how to build a **Linear Regression model from scratch**. It walks through cleaning real-world data, understanding the underlying math, and implementing gradient descent for prediction.
 
 ---
 
@@ -21,13 +21,6 @@ This project demonstrates how to build a **Linear Regression model from scratch*
 - Data preprocessing and cleaning
 - Feature selection and visualization
 - Manual prediction and evaluation
-
----
-
-## 📂 Files
-
-- `BuildingLinearReggresion.ipynb` — Main Jupyter notebook with all steps
-- `data.csv` *(optional)* — Dataset used (not uploaded here due to privacy or size)
 
 ---
 
@@ -84,31 +77,11 @@ We explored:
 
 ---
 
-## 📉 Sample Output
-
-![Prediction vs Actual](assets/pred_vs_actual.png)  
-*(Add your own image of the scatter plot here)*
-
----
-
 ## 🧠 Learnings
 
 - Better understanding of the internals of linear regression
 - Importance of feature scaling and data cleaning
 - Visualization as a critical part of model understanding
-
----
-
-## 🤝 Contributions
-
-Feel free to fork, use, or enhance this notebook for your own learning or portfolio.
-
----
-
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or reach out for collaborations!
-
 ---
 
 ## 🏷️ Tags
